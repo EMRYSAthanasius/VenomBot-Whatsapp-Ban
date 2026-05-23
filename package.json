@@ -24,6 +24,7 @@
     "readline-sync": "^1.4.10",
     "chalk": "^4.1.2",
     "spinnies": "^0.5.1",
-    "@VenomMods/baileys": "npm:baileys@latest"
+    "@VenomMods/baileys": "npm:baileys@latest",
+    "moment-timezone": "^0.6.2"
   }
 }
